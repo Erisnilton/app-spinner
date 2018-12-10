@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Spinner</string>
+
+    <string-array name="componentes">
+        <item>Escolha um componente</item>
+        <item>Button</item>
+        <item>Spinner</item>
+        <item>Sickbar</item>
+        <item>CheckBox</item>
+        <item>Tooltips</item>
+        <item>Pickers</item>
+        <item>ImageView</item>
+        <item>ToggleButton</item>
+    </string-array>
+
+</resources>
+
+
+
+
